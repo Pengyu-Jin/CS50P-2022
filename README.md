@@ -2,9 +2,9 @@
 
 ### These are my solutions for CS50's Introduction to Programming with Python 2022.
 
-### Course Website: [CS50P 2022](https://cs50.harvard.edu/python/2022/)
+### 🏠Course Website: [CS50P 2022](https://cs50.harvard.edu/python/2022/)
 
-### Recordings: [CS50P 2022](https://youtu.be/OvKCESUCWII?si=Lq2KWHk9dcAILexT)
+### 🎥Recordings: [CS50P 2022](https://youtu.be/OvKCESUCWII?si=Lq2KWHk9dcAILexT)
 
 ## My Final Project
 
