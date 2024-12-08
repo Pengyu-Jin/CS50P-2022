@@ -15,4 +15,6 @@ Recordings: [CS50P 2022](https://youtu.be/OvKCESUCWII?si=Lq2KWHk9dcAILexT){:targ
     <embed src="./pdf_collection/CS50P_final_project.pdf" />
 </object>
 
+**Certificate**:
+...
 
