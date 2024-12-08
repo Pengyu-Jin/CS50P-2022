@@ -11,9 +11,9 @@ Recordings: [CS50P 2022](https://youtu.be/OvKCESUCWII?si=Lq2KWHk9dcAILexT){:targ
 
 **Presentation**: 
 
-<object data="./pdf_collection/CS50P_final_project.pdf" type="application/pdf" width="100%" height="800">
-    <embed src="./pdf_collection/CS50P_final_project.pdf" />
-</object>
+![Page 1](pdf_collection/CS50P_final_project_页面_01.png)
+![Page 2](pdf_collection/CS50P_final_project_页面_02.png)
+![Page 3](pdf_collection/CS50P_final_project_页面_03.png)
 
 **Certificate**:
 ...
