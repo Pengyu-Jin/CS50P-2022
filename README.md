@@ -6,19 +6,18 @@ Course Website: [CS50P 2022](https://cs50.harvard.edu/python/2022/)
 
 Recordings: [CS50P 2022](https://youtu.be/OvKCESUCWII?si=Lq2KWHk9dcAILexT)
 
-# My Final Project
+## My Final Project
 
-**Video Demo**: [CS50P Final Project: Extract metadata from Instagram](https://youtu.be/jN7Ah_TUM7c?si=xyjxMQSYxOg_SG3b)
+**🎬Video Demo**: [CS50P Final Project: Extract metadata from Instagram -- Youtube](https://youtu.be/jN7Ah_TUM7c?si=xyjxMQSYxOg_SG3b)
 
-**Presentation**: [CS50P Final Project Presentation](https://raw.githubusercontent.com/Pengyu-Jin/CS50P-2022/main/pdf_collection/CS50P_final_project.pdf)
+**💻Presentation**: [CS50P Final Project Presentation](./pdf_collection/CS50P_final_project.pdf)
 
-
-
-**Certificate**: 
+**🎉Certificate**: 
 ![](./pdf_collection/CS50P.png)
 
-## :warning: Disclaimer:
+## Disclaimer:
 
-### ❗ **The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.**
+### ⚠️**The codes in this repository are for educational purpose only and not intended to be used / submitted as your own solutions.**
 
-### ❗ **Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2022/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.**
+### ⚠️**Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2022/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.**
+
