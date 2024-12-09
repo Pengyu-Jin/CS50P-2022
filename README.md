@@ -1,6 +1,6 @@
 # CS50’s Introduction to Programming with Python
 
-### These are my solutions for CS50's Introduction to Programming with Python 2022.
+### These are my solutions for CS50's Introduction to Programming with Python 2022.Just for information.
 
 ### 🏠Course Website: [CS50P 2022](https://cs50.harvard.edu/python/2022/)
 
