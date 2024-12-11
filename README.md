@@ -15,7 +15,7 @@
 ### **🎉Certificate**: 
 ![](./pdf_collection/CS50P.png)
 
-## Disclaimer:
+## Disclaimer
 
 ### ⚠️**The codes in this repository are for educational purpose only and not intended to be used / submitted as your own solutions.**
 
